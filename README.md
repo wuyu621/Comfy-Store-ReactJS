@@ -33,7 +33,7 @@ You can view a live demo of the project on Netlify:
 To run the project locally, you'll need to clone the repository and install the dependencies using `npm` or `yarn`.
 
 ```
-git clone https://github.com/Ramy5/comfy-store
+git clone https://github.com/wuyu621/comfy-store-24
 cd my-project
 npm install
 ```

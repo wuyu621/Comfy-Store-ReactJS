@@ -21,9 +21,10 @@ Check out the live version of the app: [Comfy Store](https://comfy-store-24.netl
 - **Total Price Calculation**: View the total price of items in the cart before checkout.
 - **Checkout Process**: Proceed to checkout with a simple and intuitive form.
 - **Responsive Design**: Enjoy a seamless shopping experience on both desktop and mobile devices.
-**Adjustable Browsing Mode**: Users can switch between light and dark themes based on their preferences, providing a personalized browsing experience that enhances visibility and comfort.
+  **Adjustable Browsing Mode**: Users can switch between light and dark themes based on their preferences, providing a personalized browsing experience that enhances visibility and comfort.
 
 ## Demo
+
 You can view a live demo of the project on Netlify:
 [Comfy Store Live Demo](https://comfy-store-24.netlify.app/)
 
@@ -45,28 +46,29 @@ or
 yarn install
 ```
 
-```
 Then, start the development server:
+
 ```
 npm run dev
 ```
+
 Or
+
 ```
 yarn dev
 ```
 
 The project should be running at [http://localhost:3000](http://localhost:3000).
-```
 
 ## Technologies Used
-··
+
 This project was built using the following technologies:
 
-ReactJS: For building the user interface.
-Tailwind CSS: For rapid and responsive styling.
-React Query: For efficient data fetching and caching.
-Redux Toolkit: For state management.
-Daisy UI: For pre-built UI components, enhancing development speed.
+-ReactJS: For building the user interface.
+-Tailwind CSS: For rapid and responsive styling.
+-React Query: For efficient data fetching and caching.
+-Redux Toolkit: For state management.
+-Daisy UI: For pre-built UI components, enhancing development speed.
 
 ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)

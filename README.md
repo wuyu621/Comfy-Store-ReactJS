@@ -30,8 +30,6 @@ You can view a live demo of the project on Netlify:
 
 ## Installation
 
-To run this project locally, follow these steps:
-
 To run the project locally, you'll need to clone the repository and install the dependencies using `npm` or `yarn`.
 
 ```
@@ -52,7 +50,7 @@ Then, start the development server:
 npm run dev
 ```
 
-Or
+or
 
 ```
 yarn dev
@@ -64,11 +62,11 @@ The project should be running at [http://localhost:3000](http://localhost:3000).
 
 This project was built using the following technologies:
 
--ReactJS: For building the user interface.
--Tailwind CSS: For rapid and responsive styling.
--React Query: For efficient data fetching and caching.
--Redux Toolkit: For state management.
--Daisy UI: For pre-built UI components, enhancing development speed.
+- **ReactJS**: For building the user interface.
+- **Tailwind CSS**: For rapid and responsive styling.
+- **React Query**: For efficient data fetching and caching.
+- **Redux Toolkit**: For state management.
+- **Daisy UI**: For pre-built UI components, enhancing development speed.
 
 ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)

@@ -1,6 +1,6 @@
 # Comfy Store
 
-Welcome to **Comfy Store**, an e-commerce web application where users can browse and purchase products with ease.
+Welcome to **Comfy Store-ReactJS**, an e-commerce web application where users can browse search and purchase products with ease using reactJS.
 
 Check out the live version of the app: [Comfy Store](https://comfy-store-24.netlify.app/)
 

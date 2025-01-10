@@ -1,8 +1,8 @@
 # Comfy Store
 
-Welcome to **Comfy Store-ReactJS**, an e-commerce web application where users can browse search and purchase products with ease using reactJS.
+Welcome to **Comfy Store-ReactJS**, an e-commerce web application where users can browse search and purchase products with ease using ReactJS.
 
-Check out the live version of the app: [Comfy Store](https://comfy-store-24.netlify.app/)
+Check out the live version of the app: [Comfy Store](https://comfy-store-reactjs.netlify.app/)
 
 ---
 
@@ -26,14 +26,14 @@ Check out the live version of the app: [Comfy Store](https://comfy-store-24.netl
 ## Demo
 
 You can view a live demo of the project on Netlify:
-[Comfy Store Live Demo](https://comfy-store-24.netlify.app/)
+[Comfy Store Live Demo](https://comfy-store-reactjs.netlify.app/)
 
 ## Installation
 
 To run the project locally, you'll need to clone the repository and install the dependencies using `npm` or `yarn`.
 
 ```
-git clone https://github.com/wuyu621/comfy-store-24
+git clone [https://github.com/wuyu621/comfy-store-24](https://github.com/wuyu621/Comfy-Store-ReactJS)
 cd my-project
 npm install
 ```
